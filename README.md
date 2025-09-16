@@ -1,5 +1,5 @@
 <html style="background-color:Grey">
-    <head>
+    <head  <link type="text/css" rel="stylesheet" href="/stylesheets/main.css"/>>
       <meta charset="utf-8">
       <title>Home</title>
     </head>

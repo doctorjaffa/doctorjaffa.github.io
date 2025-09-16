@@ -6,21 +6,6 @@ header {
   color: white;
 }
 
-.navlinks {
-  font-size: 23px;
-  padding-top: 10px;
-  text-decoration: none;
-  display: flex;
-  justify-content: end;
-  display: inline
-}
-
-#navbar {
-position: fixed;
-right: 0;
-top: 0;
-}
-
 ul {
   float: right;
   list-style-type: none;

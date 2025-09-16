@@ -7,7 +7,7 @@
     <div>
         <body>
           <h1>Projects</h1>
-          <hr>
+          <br>
           <a href="https://doctorjaffa.github.io/thekleinevent.html">
           <image src="TKEImage.png" style="width:256px;height:256px;" title="The Klein Event Project"> </image>
           </a>

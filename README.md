@@ -24,7 +24,7 @@
               <image src="TKEImage.png" style="width:256px;height:256px;" title="The Klein Event Project"> </image>
               </a>
               <br>
-              <u><a href="https://doctorjaffa.github.io/thekleinevent.html"> <p1> The Klein Event </p1></a></u>
+              <u><p id="projectLink"><a href="https://doctorjaffa.github.io/thekleinevent.html"> The Klein Event </a></p></u>
         </section>
     </div>
 </html>

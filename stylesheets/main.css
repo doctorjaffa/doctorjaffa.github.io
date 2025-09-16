@@ -62,6 +62,7 @@ p1 {
   float: right;
   background-color: #666;
   color: white;
+  text-align: center;
 }
 
 #infoWindow {

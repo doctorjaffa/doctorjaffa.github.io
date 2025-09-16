@@ -52,17 +52,16 @@ h1 {
   margin-top: 10px;
 }
 
-p1 {
-  color: "white";
-  margin-left: 100px;
-}
-
 #projectWindow {
   width: 25%;
   float: right;
   background-color: #666;
   color: white;
   text-align: center;
+}
+
+#projectWindow u a {
+  color:white;
 }
 
 #infoWindow {

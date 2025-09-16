@@ -57,8 +57,13 @@ p1 {
   margin-left:100px;
 }
 
-aside {
+#projectWindow {
   width:25%;
   float:right;
+}
+
+#infoWindow {
+  width:75%;
+  float:left;
 }
 

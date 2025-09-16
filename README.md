@@ -7,7 +7,7 @@
         <header>
             <h1>Nathan Harris</h1>
             <h2>Games Programmer/Developer</h2>
-            <ul>
+            <ul style="display: flex; justify-content: space-between;">
                 <li><a href="#">Home</a></li>
                 <li><a href="#">Projects</a></li>
                 <li><a href="#">Contact</a></li>

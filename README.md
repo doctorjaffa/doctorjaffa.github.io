@@ -1,5 +1,5 @@
 <html>
-  <div style = "background-color:DarkGrey">
+  <div style = "background-color:Grey">
     <head>
       <meta charset="utf-8">
       <title>Home</title>
@@ -8,11 +8,13 @@
       <h1>Projects</h1>
     </body>
     <body>
-      <h2> The Klein Event </h2>
-      <text> Collaborative university project with six other Abertay students. </text>
+      <h2>The Klein Event</h2>
+      <hr>
       <a href="https://doctorjaffa.github.io/thekleinevent.html">
       <image src="TKEImage.png" style="width:256px;height:256px;" title="The Klein Event Project"> </image>
       </a>
+      <hr>
+      <p>Collaborative university project with six other Abertay students.</p>
     </body>
   </div>
 </html>

@@ -13,9 +13,10 @@
                 <li><a href="#">Contact</a></li>
             </ul>
         </header>
-        <section>
+        <section id="infoWindow">
             <p style="color:white;"> Hello, I'm a 4th year student studying Computer Game Applications Development at Abertay University. <br> I am eager to continue my programming journey into the professional world, with a strong                     passion for learning both new languages, or expanding my current knowledge in others.
             <aside>
+                <section id="projectWindow">
                   <h1>Projects</h1>
                   <br>
                   <a href="https://doctorjaffa.github.io/thekleinevent.html">
@@ -23,6 +24,7 @@
                   </a>
                   <br>
                   <u><a href="https://doctorjaffa.github.io/thekleinevent.html"> <p1> The Klein Event </p1></a></u>
+                </section>
             </aside>
             </p>
         </section>

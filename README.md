@@ -1,7 +1,7 @@
 <html style="background-color:Grey">
     <head>
       <meta charset="utf-8">
-      <link rel="stylesheet" href="stylesheets/main.css">
+      <link rel="stylesheet" href="/stylesheets/main.css">
       <title>Home</title>
     </head>
     <body>

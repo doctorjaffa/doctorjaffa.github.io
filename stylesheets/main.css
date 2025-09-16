@@ -8,7 +8,7 @@ header {
 
 nav {
   float: right;
-  width: 30%;
+  width: 15%;
   background: #ccc;
   padding: 20px;
 }
@@ -22,7 +22,7 @@ ul {
 }
 
 ul li {
-  float: left;
+  float: right;
 }
 
 ul li a {

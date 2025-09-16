@@ -1,5 +1,4 @@
-<html>
-  <div style = "background-color:Grey">
+<html style="background-color:Grey">
     <head>
       <meta charset="utf-8">
       <title>Home</title>
@@ -16,5 +15,4 @@
       <hr>
       <p>Collaborative university project with six other Abertay students.</p>
     </body>
-  </div>
 </html>

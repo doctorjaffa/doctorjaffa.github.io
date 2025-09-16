@@ -5,7 +5,11 @@
   </head>
   <body>
     <h1>Projects</h1>
+  </body>
+
+  <body>
+    <h2> The Klein Event </h2>
     <text> Collaborative university project with six other Abertay students. </text>
-    <image src="C:/Users/2302905/Downloads/image1.png"> </image>
+    <image src="TKEImage.png" style="width:128px;height:128px;"> 
   </body>
 </html>

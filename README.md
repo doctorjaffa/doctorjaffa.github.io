@@ -1,4 +1,4 @@
-<html style="background-color:Grey">
+<html>
     <head>
       <meta charset="utf-8">
       <link rel="stylesheet" href="/stylesheets/main.css">

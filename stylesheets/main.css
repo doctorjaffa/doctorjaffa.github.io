@@ -60,8 +60,9 @@ h1 {
   text-align: center;
 }
 
-#projectWindow u a {
-  color:white;
+#projectLink {
+  text-align: center;
+  color: white;
 }
 
 #infoWindow {

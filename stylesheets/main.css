@@ -1,13 +1,6 @@
-h1 {
-margin-left: 50px;
-color:"white";
+div {
+  margin-left:50px;
+  color:"white";
 }
 
-p.ex1 {
-margin-left: 50px;
-color:"white";
-}
 
-a {
-margin-left:50px;
-}

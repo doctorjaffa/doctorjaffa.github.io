@@ -13,7 +13,6 @@
                 <li><a href="#">Contact</a></li>
             </ul>
         </header>
-
         <section>
             <p style="color:white;"> Hello, I'm a 4th year student studying Computer Game Applications Development at Abertay University. <br> I am eager to continue my programming journey into the professional world, with a strong                     passion for learning both new languages, or expanding my current knowledge in others.</p>
         </section>

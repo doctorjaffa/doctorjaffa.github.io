@@ -7,7 +7,7 @@
         <header>
             <h1>Nathan Harris</h1>
             <h2>Games Programmer/Developer</h2>
-            <ul style="display: flex; justify-content: space-between;">
+            <ul>
                 <li><a href="#">Home</a></li>
                 <li><a href="#">Projects</a></li>
                 <li><a href="#">Contact</a></li>
@@ -15,7 +15,6 @@
         </header>
         <section>
             <p style="color:white;"> Hello, I'm a 4th year student studying Computer Game Applications Development at Abertay University. <br> I am eager to continue my programming journey into the professional world, with a strong                     passion for learning both new languages, or expanding my current knowledge in others.</p>
-        </section>
         <aside>
           <h1>Projects</h1>
           <br>
@@ -25,5 +24,6 @@
             <br>
           <u><a href="https://doctorjaffa.github.io/thekleinevent.html"> <p1> The Klein Event </p1></a></u>
         </aside>
+        </section>
     </div>
 </html>

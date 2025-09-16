@@ -1,3 +1,30 @@
+header {
+  background-color: #666;
+  padding: 30px;
+  text-align: left;
+  font-size: 35px;
+  color: white;
+}
+
+nav {
+  float: right;
+  width: 30%;
+  background: #ccc;
+  padding: 20px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Clear floats after the columns */
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 div {
   margin-left:50px;
   color:"white";

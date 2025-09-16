@@ -6,11 +6,19 @@ header {
   color: white;
 }
 
-nav {
-  float: right;
-  width: 15%;
-  background: #ccc;
-  padding: 0;
+.navlinks {
+  font-size: 23px;
+  padding-top: 10px;
+  text-decoration: none;
+  display: flex;
+  justify-content: end;
+  display: inline
+}
+
+#nav-bar {
+position: fixed;
+right: 0;
+top: 0;
 }
 
 ul {

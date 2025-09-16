@@ -10,6 +10,8 @@
   <body>
     <h2> The Klein Event </h2>
     <text> Collaborative university project with six other Abertay students. </text>
-    <image src="TKEImage.png" style="width:256px;height:256px;"> </image>
+    <a href="https://doctorjaffa.github.io/thekleinevent.html">
+    <image src="TKEImage.png" style="width:256px;height:256px;" title="The Klein Event Project"> </image>
+    </a>
   </body>
 </html>

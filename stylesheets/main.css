@@ -45,11 +45,11 @@ div {
 #content {
   display: flex;
   height: calc(100vh - 100px);
-  width: 100%;
+  width: calc(100vw - 350px);
 }
 
 #infoWindow {
-  flex: 1;
+  position: fixed;
   height: calc(100vh - 100px);
   width: calc(100vw - 350px);
   background-color: #777;

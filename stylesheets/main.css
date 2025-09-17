@@ -51,8 +51,8 @@ div {
   margin: 0 50px;
 
 #infoWindow {
-  width: 800px;
-  height: 800px;
+  flex: 3;
+  height: auto;
   background-color: #666;
   color: white;
   padding: 0;
@@ -60,7 +60,8 @@ div {
 }
 
 #projectWindow {
-  width: 25%;
+  flex: 0 0 300px;
+  max-width: 350px;
   background-color: #666;
   color: white;
   text-align: center;

@@ -37,7 +37,7 @@
               <h1>Projects</h1>
               <br>
               <!-- <a href="https://doctorjaffa.github.io/thekleinevent.html"> -->
-              <image src="TKEImage.png" style="width:256px;height:256px;" title="The Klein Event Project" onclick="displayTKE()"> </image>
+              <image onclick="displayTKE()" src="TKEImage.png" style="width:256px;height:256px; cursor:pointer;" title="The Klein Event Project" > </image>
               <!-- </a> -->
               <br>
               <u><p id="projectLink"><a href="https://doctorjaffa.github.io/thekleinevent.html"> The Klein Event </a></p></u>

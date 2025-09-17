@@ -50,7 +50,7 @@ ul li a:hover {
   position: fixed;
   left: 0;
   top: 100px; 
-  width: calc(100vw - 350px);
+  width: 75%;
   background-color: #777;
   color: white;
   padding: 20px;
@@ -60,7 +60,7 @@ ul li a:hover {
 
 #projectWindow {
   position: fixed;
-  width: 350px;
+  width: 25%;
   top: 100px;
   right: 0;
   background-color: #444;

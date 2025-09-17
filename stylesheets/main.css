@@ -41,13 +41,14 @@ div {
 #content {
   display: flex;
   align-items: flex-start;
-  margin: 0 50px;
+  margin: 0 auto;
+  width: 100%;
 }
 
 #infoWindow {
   flex: 1;
   min-width: 0;
-  background-color: #666;
+  background-color: #777;
   color: white;
   padding: 0;
   margin: 0;
@@ -56,7 +57,7 @@ div {
 #projectWindow {
   flex: 0 0 300px;
   max-width: 350px;
-  background-color: #666;
+  background-color: #444;
   color: white;
   text-align: center;
   padding: 10px;

@@ -27,15 +27,23 @@
                 <div id="thekleinevent">
                     <p> This will be a thorough breakdown of The Klein Event. </p>
                 </div>
+                <div id="adventuregame">
+                    <p> This will be a thorough breakdown of an Adventure Game </p>
+                </div>
                 <!---->
                 <script>
                     function displayAbout() {
-                        document.getElementById("about").style.display = "flex";
+                        document.getElementById("about").style.display = "block";
                         document.getElementById("thekleinevent").style.display = "none";
                         }
                     function displayTKE() {
                         document.getElementById("about").style.display = "none";
-                        document.getElementById("thekleinevent").style.display = "flex";
+                        document.getElementById("thekleinevent").style.display = "block";
+                        }
+                    function displayAG() {
+                        document.getElementById("about").style.display = "none";
+                        document.getElementById("thekleinevent").style.display = "none";
+                        document.getElementById("adventuregame").style.display = "block";
                         }
                 </script>
                 <!---->
@@ -44,7 +52,8 @@
                   <h1>Projects</h1>
                   <br>
                   <!-- <a href="https://doctorjaffa.github.io/thekleinevent.html"> -->
-                  <img onclick="displayTKE()" src="TKEImage.png" title="The Klein Event Project" >
+                  <img onclick="displayTKE()" src="TKEImage.png" title="The Klein Event Project">
+                  <img onclick="displayAG()" src="AGImage.png" title="Adventure Game Project">
                   <!-- </a> -->
                   <br>
                   <!-- <u><p id="projectLink"><a href="https://doctorjaffa.github.io/thekleinevent.html"> The Klein Event </a></p></u> -->

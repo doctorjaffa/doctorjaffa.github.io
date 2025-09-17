@@ -17,22 +17,22 @@
         </header>
         <section id="infoWindow">
             <!---->
-            <body id="about" style="display:flex;">
+            <div id="about" style="display:flex;">
                 <p> Hello, I'm a 4th year student studying Computer Game Applications Development at Abertay University. <br> I am eager to continue my programming journey into the professional world, with a                   strong                       passion for learning both new languages, or expanding my current knowledge in others. </p>
-            </body>
+            </div>
             <!---->
-            <body style="display:none;" id="thekleinevent">
+            <div style="display:none;" id="thekleinevent">
                 <p> This will be a thorough breakdown of The Klein Event. </p>
-            </body>
+            </div>
             <!---->
             <script>
             function displayAbout() {
-                document.getElementById("about").display = "flex";
-                document.getElementById("thekleinevent").display = "none";
+                document.getElementById("about").style.display = "flex";
+                document.getElementById("thekleinevent").style.display = "none";
                 }
             function displayTKE() {
-                document.getElementById("about").display = "none";
-                document.getElementById("thekleinevent").display = "flex";
+                document.getElementById("about").style.display = "none";
+                document.getElementById("thekleinevent").style.display = "flex";
                 }
             </script>
             <!---->

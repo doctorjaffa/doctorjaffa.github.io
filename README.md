@@ -40,7 +40,7 @@
               <image onclick="displayTKE()" src="TKEImage.png" style="width:256px;height:256px; cursor:pointer;" title="The Klein Event Project" > </image>
               <!-- </a> -->
               <br>
-              <u><p id="projectLink"><a href="https://doctorjaffa.github.io/thekleinevent.html"> The Klein Event </a></p></u>
+              <!-- <u><p id="projectLink"><a href="https://doctorjaffa.github.io/thekleinevent.html"> The Klein Event </a></p></u> -->
         </section>
     </div>
 

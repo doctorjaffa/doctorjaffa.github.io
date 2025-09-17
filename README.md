@@ -17,9 +17,13 @@
         </header>
         <section id="infoWindow">
             <!---->
-            <p id="about" display="flex"> Hello, I'm a 4th year student studying Computer Game Applications Development at Abertay University. <br> I am eager to continue my programming journey into the professional world, with a                   strong passion for learning both new languages, or expanding my current knowledge in others. </p>
+            <body id="about" style="display:flex;">
+                <p> Hello, I'm a 4th year student studying Computer Game Applications Development at Abertay University. <br> I am eager to continue my programming journey into the professional world, with a                   strong                       passion for learning both new languages, or expanding my current knowledge in others. </p>
+            </body>
             <!---->
-            <p id="thekleinevent" style="display:none;"> This will be a thorough breakdown of The Klein Event. </p>
+            <body style="display:none;" id="thekleinevent">
+                <p> This will be a thorough breakdown of The Klein Event. </p>
+            </body>
             <!---->
             <script>
             function displayAbout() {

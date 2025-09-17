@@ -59,7 +59,9 @@ div {
 }
 
 #projectWindow {
+  position: fixed;
   width: 350px;
+  right: 0;
   background-color: #444;
   color: white;
   text-align: center;

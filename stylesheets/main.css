@@ -40,6 +40,8 @@ ul li a:hover {
 
 #content {
   display: flex;
+  height: calc(100% - 100px);
+  width: 100%;
 }
 
 #infoWindow {

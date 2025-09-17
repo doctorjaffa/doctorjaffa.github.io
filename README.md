@@ -19,6 +19,16 @@
             <p id="about" visible="true"> Hello, I'm a 4th year student studying Computer Game Applications Development at Abertay University. <br> I am eager to continue my programming journey into the professional world, with a strong                                            passion for learning both new languages, or expanding my current knowledge in others.
             </p>
             <p id="thekleinevent" display="none"> This will be a thorough breakdown of The Klein Event. </p>
+            <script>
+            function displayAbout() {
+                document.getElementById("about").display = "flex";
+                document.getElementById("thekleinevent").display = "none";
+                }
+            function displayTKE() {
+                document.getElementById("about").display = "none";
+                document.getElementById("thekleinevent").display = "flex";
+                }
+        </script>
         </section>
         <section id="projectWindow">
               <h1>Projects</h1>
@@ -30,14 +40,5 @@
               <u><p id="projectLink"><a href="https://doctorjaffa.github.io/thekleinevent.html"> The Klein Event </a></p></u>
         </section>
     </div>
-    <script>
-        function displayAbout() {
-            document.getElementById("about").display = "flex";
-            document.getElementById("thekleinevent").display = "none";
-            }
-        function displayTKE() {
-            document.getElementById("about").display = "none";
-            document.getElementById("thekleinevent").display = "flex";
-            }
-    </script>
+
 </html>

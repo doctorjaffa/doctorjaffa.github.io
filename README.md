@@ -3,7 +3,7 @@
       <meta charset="utf-8">
       <link rel="stylesheet" href="/stylesheets/main.css">
     </head>
-    <div>
+    <body>
         <header>
             <h1>Nathan Harris</h1>
             <h2>Games Programmer/Developer</h2>
@@ -48,6 +48,5 @@
                   <!-- <u><p id="projectLink"><a href="https://doctorjaffa.github.io/thekleinevent.html"> The Klein Event </a></p></u> -->
             </div>
         </section>
-    </div>
-
+    </body>
 </html>

@@ -85,5 +85,5 @@ ul li a:hover {
 }
 
 #about {
-  display: flex;
+  display: block;
 }

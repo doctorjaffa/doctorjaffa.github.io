@@ -52,7 +52,6 @@ div {
   background-color: #777;
   color: white;
   padding: 20px;
-  margin-right:350px;
   height: calc(100vh - 100px);
   overflow-y: auto;
   width: calc(100vw - 350px);

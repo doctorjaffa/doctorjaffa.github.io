@@ -50,17 +50,19 @@ ul li a:hover {
   position: fixed;
   left: 0;
   top: 100px; 
-  width: 75%;
+  width: calc(100vw - 350px);
+  max-width: 1050px;
   background-color: #777;
   color: white;
   padding: 20px;
   overflow-y: auto;
+  box-sizing: border-box;
   outline: 2px solid red;
 }
 
 #projectWindow {
   position: fixed;
-  width: 25%;
+  width: 350px;
   top: 100px;
   right: 0;
   background-color: #444;
@@ -69,6 +71,7 @@ ul li a:hover {
   padding: 25px 10px 10px 10px;
   height: calc(100vh - 100px);
   overflow-y: auto;
+  box-sizing: border-box;
   outline: 2px solid blue;
 }
 

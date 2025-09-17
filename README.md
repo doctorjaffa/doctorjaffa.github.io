@@ -6,7 +6,7 @@
     <body>
         <header>
             <h1>Nathan Harris</h1>
-            <h2>Games Programmer/Developer</h2>
+            <h1 style="font-size:25px;">Games Programmer/Developer</h1>
             <!--
             <ul>
                 <li><a href="#">Home</a></li>
@@ -19,7 +19,8 @@
             <div id="infoWindow">
                 <!---->
                 <div id="about">
-                    <h2> About Me </h2>
+                    <h1 style="font-size:25px;"> About Me </h1>
+                    <hr>
                     <p> Hello, I'm a 4th year student studying Computer Game Applications Development at Abertay University. <br> I am eager to continue my programming journey into the professional world, with a strong                                      passion for learning both new languages, or expanding my current knowledge in others. </p>
                 </div>
                 <!---->

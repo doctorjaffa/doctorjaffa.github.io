@@ -47,6 +47,10 @@ ul li a:hover {
 }
 
 #infoWindow {
+  position: fixed;
+  left: 0;
+  top: 100px; 
+  width: calc(100vw-350px);
   background-color: #777;
   color: white;
   padding: 20px;
@@ -62,7 +66,7 @@ ul li a:hover {
   background-color: #444;
   color: white;
   text-align: center;
-  padding: 10px;
+  padding: 25px 10px 10px 10px;
   height: calc(100vh - 100px);
   overflow-y: auto;
   outline: 2px solid blue;

@@ -41,18 +41,18 @@ section::after {
 }
 
 div {
-  margin-left: 50px;
-  color: "white";
+  color: white;
 }
 
 #content {
   display: flex;
   align-items: flex-start;
   margin: 0 50px;
+}
 
 #infoWindow {
-  flex: 3;
-  height: auto;
+  flex: 1;
+  min-width: 0;
   background-color: #666;
   color: white;
   padding: 0;

@@ -43,31 +43,28 @@ div {
 }
 
 #content {
-  display: block;
+  display: flex;
   margin-top: 100px;
-  width: 100%;
-}
-
-#infoWindow {
-  background-color: #777;
-  color: white;
-  padding: 20px;
   height: calc(100vh - 100px);
-  overflow-y: auto;
-  width: calc(100vw - 350px);
+  width: 100vw;
   box-sizing: border-box;
 }
 
+#infoWindow {
+  flex: 1;
+  background-color: #777;
+  color: white;
+  padding: 20px;
+  overflow-y: auto;
+}
+
 #projectWindow {
-  position: fixed;
-  top: 100px;
-  right: 0;
   width: 350px;
   background-color: #444;
   color: white;
   text-align: center;
   padding: 10px;
-  height: calc(100vh - 100px);
+  height: 100%;
   overflow-y: auto;
 }
 

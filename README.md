@@ -18,11 +18,11 @@
         <section id="content">
             <div id="infoWindow">
                 <!---->
-                <div id="about" style="display:flex;">
+                <div id="about">
                     <p> Hello, I'm a 4th year student studying Computer Game Applications Development at Abertay University. <br> I am eager to continue my programming journey into the professional world, with a strong                                      passion for learning both new languages, or expanding my current knowledge in others. </p>
                 </div>
                 <!---->
-                <div style="display:none;" id="thekleinevent">
+                <div id="thekleinevent">
                     <p> This will be a thorough breakdown of The Klein Event. </p>
                 </div>
                 <!---->

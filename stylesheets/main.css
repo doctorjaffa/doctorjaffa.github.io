@@ -69,6 +69,11 @@ div {
 
 #about, #thekleinevent {
   padding: 20px;
+  display: none;
+}
+
+#about {
+  display: flex;
 }
 
 #projectWindow img {

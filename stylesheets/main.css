@@ -51,6 +51,7 @@ div {
 
 #content {
   display: flex;
+  align-items: stretch;
   margin-top: 100px;
   height: calc(100vh - 100px);
   width: 100%;
@@ -64,6 +65,7 @@ div {
   padding: 20px;
   height: 100%;
   overflow-y: auto;
+  outline: 2px solid red;
 }
 
 #projectWindow {
@@ -74,6 +76,7 @@ div {
   padding: 10px;
   height: 100%;
   overflow-y: auto;
+  outline: 2px solid blue;
 }
 
 #projectWindow img {

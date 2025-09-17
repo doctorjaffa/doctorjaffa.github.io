@@ -1,12 +1,16 @@
 header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
   background-color: #666;
   padding-left: 30px;
   padding-top: 15px;
-  margin-bottom: 20px;
   height: 100px;
   text-align: left;
   font-size: 35px;
   color: white;
+  z-index: 1000;
 }
 
 ul {
@@ -39,32 +43,38 @@ div {
 }
 
 #content {
-  display: flex;
-  margin: 0;
-  width: 100vw;
-  height: 100vh;
+  display: block;
+  margin-top: 100px;
+  width: 100%;
 }
 
 #infoWindow {
-  flex: 3;
   background-color: #777;
   color: white;
   padding: 20px;
+  margin-right:350px;
+  height: calc(100vh - 100px);
   overflow-y: auto;
 }
 
 #projectWindow {
-  flex: 1;
-  max-width: 350px;
+  position: fixed;
+  top: 100px;
+  right: 0;
+  width: 350px;
   background-color: #444;
   color: white;
   text-align: center;
   padding: 10px;
-  height: 100vh;
-  position: fixed;
-  top: 0;
-  right: 0;
+  height: calc(100vh - 100px);
   overflow-y: auto;
+}
+
+#projectWindow img {
+  width: 256px;
+  height: 256px;
+  margin: 10px 0; 
+  cursor: pointer;
 }
 
 #about, #thekleinevent {
@@ -76,10 +86,4 @@ div {
   display: flex;
 }
 
-#projectWindow img {
-  width: 256px;
-  height: 256px;
-  margin: 10px 0; 
-  cursor: pointer;
-}
 

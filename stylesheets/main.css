@@ -44,13 +44,14 @@ div {
 
 #content {
   display: flex;
-  margin-top: 100px;
   height: calc(100vh - 100px);
   width: 100%;
 }
 
 #infoWindow {
   flex: 1;
+  height: calc(100vh - 100px);
+  width: calc(100vw - 350px);
   background-color: #777;
   color: white;
   padding: 20px;
@@ -61,12 +62,13 @@ div {
 #projectWindow {
   position: fixed;
   width: 350px;
+  top: 100px;
   right: 0;
   background-color: #444;
   color: white;
   text-align: center;
   padding: 10px;
-  height: 100%;
+  height: calc(100vh - 100px);
   overflow-y: auto;
   outline: 2px solid blue;
 }

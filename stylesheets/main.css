@@ -67,14 +67,14 @@ div {
   padding: 10px;
 }
 
-#projectLink {
-  text-align: center;
-  color: white;
-}
-
-
-
 #about, #thekleinevent {
   padding: 20px;
+}
+
+#projectWindow img {
+  width: 256px;
+  height: 256px;
+  margin: 10px 0; 
+  cursor: pointer;
 }
 

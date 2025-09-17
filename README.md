@@ -6,7 +6,7 @@
     <div>
         <header>
             <h1>Nathan Harris</h1>
-            <h2>Games Programmer/Developer</h2>
+            <h3>Games Programmer/Developer</h3>
             <!--
             <ul>
                 <li><a href="#">Home</a></li>

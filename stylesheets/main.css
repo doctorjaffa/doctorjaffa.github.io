@@ -34,12 +34,6 @@ ul li a:hover {
   background-color: #111111;
 }
 
-section::after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
 div {
   color: white;
 }

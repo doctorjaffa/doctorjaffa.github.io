@@ -43,6 +43,7 @@ ul li a:hover {
   height: 100%;
   width: 100%;
   padding-top: 100px;
+  box-sizing: border-box;
 }
 
 #infoWindow {

@@ -40,27 +40,31 @@ div {
 
 #content {
   display: flex;
-  align-items: flex-start;
-  margin: 0 auto;
-  width: 100%;
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
 }
 
 #infoWindow {
-  flex: 1;
-  min-width: 0;
+  flex: 3;
   background-color: #777;
   color: white;
-  padding: 0;
-  margin: 0;
+  padding: 20px;
+  overflow-y: auto;
 }
 
 #projectWindow {
-  flex: 0 0 300px;
+  flex: 1;
   max-width: 350px;
   background-color: #444;
   color: white;
   text-align: center;
   padding: 10px;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  right: 0;
+  overflow-y: auto;
 }
 
 #about, #thekleinevent {

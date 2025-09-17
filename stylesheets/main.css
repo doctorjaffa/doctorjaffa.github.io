@@ -45,12 +45,26 @@ div {
   color: "white";
 }
 
+#content {
+  display: flex;
+  align-items: flex-start;
+  margin: 0 50px;
+
+#infoWindow {
+  width: 800px;
+  height: 800px;
+  background-color: #666;
+  color: white;
+  padding: 0;
+  margin: 0;
+}
+
 #projectWindow {
   width: 25%;
-  float: right;
   background-color: #666;
   color: white;
   text-align: center;
+  padding: 10px;
 }
 
 #projectLink {
@@ -58,15 +72,7 @@ div {
   color: white;
 }
 
-#infoWindow {
-  width: 800px;
-  height: 800px;
-  float: left;
-  background-color: #666;
-  color: white;
-  padding: 0;
-  margin: 0;
-}
+
 
 #about, #thekleinevent {
   padding: 20px;

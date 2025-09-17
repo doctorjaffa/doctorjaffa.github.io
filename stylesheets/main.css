@@ -38,10 +38,6 @@ ul li a:hover {
   background-color: #111111;
 }
 
-div {
-  color: white;
-}
-
 #content {
   display: flex;
   height: calc(100vh - 100px);
@@ -49,7 +45,7 @@ div {
 }
 
 #infoWindow {
-  position: fixed;
+  flex: 3;
   height: calc(100vh - 100px);
   width: calc(100vw - 350px);
   background-color: #777;
@@ -60,7 +56,7 @@ div {
 }
 
 #projectWindow {
-  position: fixed;
+  flex: 1;
   width: 350px;
   top: 100px;
   right: 0;

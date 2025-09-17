@@ -55,6 +55,8 @@ div {
   margin-right:350px;
   height: calc(100vh - 100px);
   overflow-y: auto;
+  width: calc(100vw - 350px);
+  box-sizing: border-box;
 }
 
 #projectWindow {

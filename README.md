@@ -26,7 +26,7 @@
                         generalised object-oriented programming, as you will see across my projects here. </p>
                         <p> I have experience in both C++ and C#, using engines such as Unity and Unreal, or working within SFML and Monogame to design and develop projects. I am also learning Godot to work on an idle game in my free time! </p>
                 </div>
-
+                /* */
                 /* The Klein Event Section */
                 <div id="thekleinevent">
                     <h1 style="font-size:25px; text-align:center;"> The Klein Event </h1>
@@ -47,7 +47,7 @@
                         </div>
                     </div>
                 </div>
-
+                /* */
                 /* Adventure Game Section */
                 <div id="adventuregame">
                     <h1 style="font-size:25px; text-align:center;"> Adventure Game </h1>

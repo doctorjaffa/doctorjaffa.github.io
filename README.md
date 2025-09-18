@@ -32,8 +32,8 @@
                 <!-- The Klein Event Section -->
                 <div id="thekleinevent"> 
                     <div class="tkeLayout">
-                        <h1 style="font-size:25px; text-align:center;"> The Klein Event </h1>
                         <div class="tkeText">
+                            <h1> The Klein Event </h1>
                             <br>
                             <p> I worked as part of a team called Epoch Productions as one of two programmers to develop 'The Klein Event' - a puzzle horror game set within a time loop upon a spaceship. This was a university project, with the team consisting of 7 students from Abertay, where we had to design and develop our game from scratch over the course of ~4 months. </p>
                             <br>

@@ -154,11 +154,16 @@ ul li a:hover {
     display: flex;
     gap: 100px;
     align-items: flex-start;
-    flex-direction: column;
 }
 
 .tkeText {
     flex: 1;
+}
+
+.tkeText h1 {
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 20px; 
 }
 
 .tkeMedia {

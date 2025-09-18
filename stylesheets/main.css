@@ -150,6 +150,21 @@ ul li a:hover {
   border: none;
 }
 
+.tkeLayout {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+}
+
+.tkeText {
+    flex: 1;
+}
+
+.tkeTrailer {
+    width: 320px;
+    flex-shrink: 0;
+}
+
 footer {
   position: fixed;
   bottom: 0;

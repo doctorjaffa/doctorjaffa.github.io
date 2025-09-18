@@ -52,10 +52,12 @@
                             <img src="" alt="">
                             <img src="" alt="">
                         </div>
+                    </div>
 
-                        <div class="tkeItchLink">
-                            <iframe frameborder="0" src="https://itch.io/embed/3343460" width="552" height="167"><a href="https://epochproductions.itch.io/the-klein-event">The Klein Event by EpochProductions</a></iframe>
-                        </div>
+                    <div class="tkeItchLink">
+                        <iframe frameborder="0" src="https://itch.io/embed/3343460" width="552" height="167">
+                            <a href="https://epochproductions.itch.io/the-klein-event">The Klein Event by EpochProductions</a>
+                        </iframe>
                     </div>
                 </div>
 

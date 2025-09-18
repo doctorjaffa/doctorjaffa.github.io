@@ -160,9 +160,23 @@ ul li a:hover {
     flex: 1;
 }
 
-.tkeTrailer {
+.tkeMedia {
     width: 320px;
     flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.tkeItchLink {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.tkeItchLink img {
+    max-width: 100%;
+    border-radius: 8px;
 }
 
 footer {

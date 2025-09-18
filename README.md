@@ -4,6 +4,7 @@
       <link rel="stylesheet" href="/stylesheets/main.css">
     </head>
     <body>
+
         <header>
             <h1>Nathan Harris</h1>
             <h1 style="font-size:20px;">Games Programmer/Developer</h1>
@@ -15,6 +16,7 @@
             </ul>
             -->
         </header>
+
         <section id="content">
             <div id="infoWindow">
                 <!-- About Me Section -->
@@ -26,7 +28,7 @@
                         generalised object-oriented programming, as you will see across my projects here. </p>
                         <p> I have experience in both C++ and C#, using engines such as Unity and Unreal, or working within SFML and Monogame to design and develop projects. I am also learning Godot to work on an idle game in my free time! </p>
                 </div>
-                <!-- -->
+
                 <!-- The Klein Event Section -->
                 <div id="thekleinevent">
                     <h1 style="font-size:25px; text-align:center;"> The Klein Event </h1>
@@ -45,18 +47,26 @@
                             <p> Through various play sessions, we iterated different features, adding polish based on feedback, and with industry mentors providing insights, we were able to successfully develop and publish The Klein Event to itch.io, which you can view by clicking the image below! </p>
                         </div>
 
-                        <div class="tkeTrailer">
+                        <div class="tkeMedia">
                             <iframe width="320" height="180" src="https://www.youtube.com/embed/wjItvIRsh_c" title="The Klein Event Trailer" frameborder="0" allowfullscreen> </iframe>
+                            <img src="" alt="">
+                            <img src="" alt="">
+                        </div>
+
+                        <div class="tkeItchLink">
+                            <a href="https://epochproductions.itch.io/the-klein-event">
+                            <img src="" alt="">
+                            </a>
                         </div>
                     </div>
                 </div>
-                <!-- -->
+
                 <!-- Adventure Game Section -->
                 <div id="adventuregame">
                     <h1 style="font-size:25px; text-align:center;"> Adventure Game </h1>
                     <p> This is a mini text-based adventure game which focuses on object-oriented programming to quickly and efficiently implement new features. </p>
                 </div>
-                <!---->
+
                 <script>
                     function displayAbout() {
                         document.getElementById("about").style.display = "block";
@@ -74,7 +84,7 @@
                         document.getElementById("adventuregame").style.display = "block";
                         }
                 </script>
-                <!---->
+
             </div>
             <div id="aboutButton" onclick="displayAbout()">
                 About Me

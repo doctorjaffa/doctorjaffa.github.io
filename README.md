@@ -78,8 +78,11 @@
             <a href="https://bsky.app/profile/doctorjaffa.bsky.social" target="_blank">
                 <img src="/images/footer/Bluesky_Logo.png" alt="Bluesky">
             </a>
-            <a href="" target="_blank">
+            <a href="https://www.linkedin.com/in/nathan-harris-b0534a218" target="_blank">
                 <img src="/images/footer/InBug-White.png" alt="LinkedIn">
+            </a>
+            <a href="mailto:nathanharris1502@gmail.com" target="_blank">
+                <img src="/images/footer/gmail-logo.png" alt="Gmail">
             </a>
         </footer>
     </body>

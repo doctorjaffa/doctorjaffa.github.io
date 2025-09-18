@@ -168,6 +168,11 @@ ul li a:hover {
     gap: 10px;
 }
 
+.tkeMedia iframe, .tkeMedia img {
+    width: 100%;
+    border-radius: 8px;
+}
+
 .tkeItchLink {
     margin-top: 20px;
     display: flex;
@@ -175,8 +180,8 @@ ul li a:hover {
 }
 
 .tkeItchLink iframe {
-    max-width: 100%;
-    border-radius: 8px;
+    aspect-ratio: 16 / 9;
+    height: auto;
 }
 
 footer {

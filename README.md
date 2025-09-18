@@ -79,7 +79,7 @@
                 <img src="Bluesky_Logo.png" alt="Bluesky">
             </a>
             <a href="" target="_blank">
-                <img src="Ll-In-Bug.png" alt="LinkedIn">
+                <img src="InBug-White.png" alt="LinkedIn">
             </a>
         </footer>
     </body>

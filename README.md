@@ -30,8 +30,15 @@
                 <!---->
                 <div id="thekleinevent">
                     <h1 style="font-size:25px; text-align:center;"> The Klein Event </h1>
-                    <p> The Klein Event is a puzzle horror game set within a time loop on a spaceship, developed by Epoch Productions, a team of 7 Abertay University students across multiple disciplines. I worked as one of two programmers to develop the game, with a primary focus on the monster AI and elements of gameplay. </p>
-                    <p> This was a project designed and developed from scratch over the course of roughly 4 months and exposed me to a simulation of how a real studio might work - having constant discussions with other disciplines to ensure features were being implemented as envisioned and balance was kept. Through setting clear sprint goals, receiving feedback from various play sessions and industry mentors, I was able to get a crucial understanding of how my individual programming could pair up with a team of other game developers, maintaining consistency with designs handed to me and cohesion with features made by the other programmer. </p>
+                    <iframe width="420" height="345" src="https://www.youtube.com/watch?v=wjItvIRsh_c"> </iframe>
+                    <br>
+                    <p> I worked as part of a team called Epoch Productions as one of two programmers to develop 'The Klein Event' - a puzzle horror game set within a time loop upon a spaceship. This was a university project, with the team consisting of 7 students from Abertay, where we had to design and develop our game from scratch over the course of ~4 months. </p>
+                    <br>
+                    <p> This experience was extremely crucial for showing me how my individual skills would translate into a team project - learning how to take ideas from other disciplines and maintaining their vision while producing an acceptable product. This was a great time to develop
+                    teamworking and communication skills across the different pipelines of games development, and at the end of it produce a playable product that I could proudly release. </p>
+                    <p> Alongside this, I also learned how to use industry standard software such as Perforce and Jira within the team environment, essentially simulating what a small studio could be like, consistently updating the team on milestones, where some ends needed refined or trimmed, and ensuring we would meet the deadlines 
+                    coming up. </p>
+                    <p> Through various play sessions, improving mechanics upon given feedback, and with industry mentors providing insights, I was able to successfully develop and publish The Klein Event onto Itch.io, which you can view by clicking the image below! </p>
                 </div>
                 <div id="adventuregame">
                     <h1 style="font-size:25px; text-align:center;"> Adventure Game </h1>
@@ -64,7 +71,7 @@
                   <h1>Projects</h1>
                   <br>
                   <!-- <a href="https://doctorjaffa.github.io/thekleinevent.html"> -->
-                  <img onclick="displayTKE()" src="/images/thumbnails/TKEImage.png" title="The Klein Event Project">
+                  <img onclick="displayTKE()" src="/images/thumbnails/TKEthumbnail.png" title="The Klein Event Project">
                   <img onclick="displayAG()" src="/images/thumbnails/AGImage.png" title="Adventure Game Project">
                   <!-- </a> -->
                   <br>

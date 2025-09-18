@@ -186,9 +186,7 @@ ul li a:hover {
 }
 
 .tkeItchLink iframe {
-    width: 80%;
-    max-width: 500px;
-    border-radius: 8px;
+    max-width: 100%;
 }
 
 footer {

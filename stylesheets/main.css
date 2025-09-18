@@ -178,12 +178,11 @@ ul li a:hover {
     display: flex;
     justify-content: center;
 }
-
+/*
 .tkeItchLink iframe {
-    aspect-ratio: 16 / 9;
-    height: 100px;
+    height: auto;
 }
-
+*/
 footer {
   position: fixed;
   bottom: 0;

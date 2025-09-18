@@ -21,11 +21,11 @@
                 <div id="about">
                     <h1 style="font-size:25px; text-align:center;"> About Me </h1>
                     <br>
-                    <p> Hello, I'm an aspiring games programmer, currently in my final year of Computer Game Applications Development at Abertay University! </p>
+                    <p> Hello, I'm an aspiring games programmer, currently in 4th year studying Computer Game Applications Development at Abertay University! </p>
                     <br>
                     <p> Throughout my course, I have been exposed to many different forms of programming and have been very eager to understand and learn each variant of it. This involves things like AI, physics, graphics or more 
                     generalised object-oriented programming, as you will see across my projects here. </p>
-                    <p> I have experience in both C++ and C#, using engines such as Unity and Unreal, or working within SFML and Monogame to design and develop projects. I am also learning Godot to work on an idle game in my free                           time! </p>
+                    <p> I have experience in both C++ and C#, using engines such as Unity and Unreal, or working within SFML and Monogame to design and develop projects. I am also learning Godot to work on an idle game in my free time! </p>
                 </div>
                 <!---->
                 <div id="thekleinevent">
@@ -64,8 +64,8 @@
                   <h1>Projects</h1>
                   <br>
                   <!-- <a href="https://doctorjaffa.github.io/thekleinevent.html"> -->
-                  <img onclick="displayTKE()" src="TKEImage.png" title="The Klein Event Project">
-                  <img onclick="displayAG()" src="AGImage.png" title="Adventure Game Project">
+                  <img onclick="displayTKE()" src="/images/thumbnails/TKEImage.png" title="The Klein Event Project">
+                  <img onclick="displayAG()" src="/images/thumbnails/AGImage.png" title="Adventure Game Project">
                   <!-- </a> -->
                   <br>
                   <!-- <u><p id="projectLink"><a href="https://doctorjaffa.github.io/thekleinevent.html"> The Klein Event </a></p></u> -->
@@ -73,13 +73,13 @@
         </section>
         <footer>
             <a href="https://github.com/doctorjaffa" target="_blank">
-                <img src="github-mark-white.png" alt="Github">
+                <img src="/images/footer/github-mark-white.png" alt="Github">
             </a>
             <a href="https://bsky.app/profile/doctorjaffa.bsky.social" target="_blank">
-                <img src="Bluesky_Logo.png" alt="Bluesky">
+                <img src="/images/footer/Bluesky_Logo.png" alt="Bluesky">
             </a>
             <a href="" target="_blank">
-                <img src="InBug-White.png" alt="LinkedIn">
+                <img src="/images/footer/InBug-White.png" alt="LinkedIn">
             </a>
         </footer>
     </body>

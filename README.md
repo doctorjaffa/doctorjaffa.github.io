@@ -33,13 +33,16 @@
                     
                     <div class="tkeLayout">
                         <div class="tkeText">
+                            <br>
                             <p> I worked as part of a team called Epoch Productions as one of two programmers to develop 'The Klein Event' - a puzzle horror game set within a time loop upon a spaceship. This was a university project, with the team consisting of 7 students from Abertay, where we had to design and develop our game from scratch over the course of ~4 months. </p>
                             <br>
-                            <p> This experience was extremely crucial for showing me how my individual skills would translate into a team project - learning how to take ideas from other disciplines and maintaining their vision while producing an acceptable product. This was a great time to develop
-                            teamworking and communication skills across the different pipelines of games development, and at the end of it produce a playable product that I could proudly release. </p>
-                            <p> Alongside this, I also learned how to use industry standard software such as Perforce and Jira within the team environment, essentially simulating what a small studio could be like, consistently updating the team on milestones, where some ends needed refined or trimmed, and ensuring we would meet the deadlines 
+                            <p> This experience was extremely crucial for showing how my individual skills would translate into a group project - learning how to take ideas from other disciplines and maintaining their vision while producing playable mechanics/features. This made it a perfect chance to develop
+                            teamworking and communication skills across the different pipelines of creating a game, connecting all the features I had made with the other programmer and ensuring everything worked as intended. </p>
+                            <br>
+                            <p> During this project, I also learned how to use industry standard software such as Perforce and Jira within the team environment, essentially simulating what a small studio could be like, consistently updating the team on milestones, where some ends needed refined or trimmed, and ensuring we would meet the deadlines 
                             coming up. </p>
-                            <p> Through various play sessions, improving mechanics upon given feedback, and with industry mentors providing insights, I was able to successfully develop and publish The Klein Event onto Itch.io, which you can view by clicking the image below! </p>
+                            <br>
+                            <p> Through various play sessions, we iterated different features, adding polish based on feedback, and with industry mentors providing insights, we were able to successfully develop and publish The Klein Event to itch.io, which you can view by clicking the image below! </p>
                         </div>
 
                         <div class="tkeTrailer">

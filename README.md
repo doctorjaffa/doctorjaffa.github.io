@@ -57,6 +57,9 @@
                 </script>
                 <!---->
             </div>
+            <div id="aboutButton" onclick="displayAbout()">
+                About Me
+            </div>
             <div id="projectWindow">
                   <h1>Projects</h1>
                   <br>

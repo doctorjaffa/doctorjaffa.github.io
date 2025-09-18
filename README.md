@@ -45,9 +45,11 @@
                             <br>
                             <p> Through various play sessions, we iterated different features, adding polish based on feedback, and with industry mentors providing insights, we were able to successfully develop and publish The Klein Event to itch.io, which you can view by clicking the embed below! </p>
 
-                            <iframe frameborder="0" src="https://itch.io/embed/3343460" width="552" height="167">
-                                <a href="https://epochproductions.itch.io/the-klein-event">The Klein Event by EpochProductions</a>
-                            </iframe>
+                            <div class="tkeItchLink">
+                                <iframe frameborder="0" src="https://itch.io/embed/3343460" width="552" height="167">
+                                    <a href="https://epochproductions.itch.io/the-klein-event">The Klein Event by EpochProductions</a>
+                                </iframe>
+                            </div>
                         </div>
 
                         <div class="tkeMedia">
@@ -57,13 +59,6 @@
                             <img src="/images/media/tke/tkemedia3.png" alt="Kitchen Environment">
                         </div>
                     </div>
-                    <!--
-                    <div class="tkeItchLink">
-                        <iframe frameborder="0" src="https://itch.io/embed/3343460" width="552" height="167">
-                            <a href="https://epochproductions.itch.io/the-klein-event">The Klein Event by EpochProductions</a>
-                        </iframe>
-                    </div>
-                    -->
                 </div>
 
                 <!-- Adventure Game Section -->

@@ -166,12 +166,6 @@ ul li a:hover {
     margin-bottom: 20px; 
 }
 
-.tkeText iframe {
-    margin-top: 20px;
-    display:flex;
-    justify-content:center;
-}
-
 .tkeMedia {
     width: 440px;
     flex-shrink: 0;
@@ -189,6 +183,12 @@ ul li a:hover {
     margin-top: 20px;
     display: flex;
     justify-content: center;
+}
+
+.tkeItchLink iframe {
+    width: 80%;
+    max-width: 500px;
+    border-radius: 8px;
 }
 
 footer {

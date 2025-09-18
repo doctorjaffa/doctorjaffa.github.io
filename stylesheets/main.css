@@ -166,6 +166,12 @@ ul li a:hover {
     margin-bottom: 20px; 
 }
 
+.tkeText iframe {
+    margin-top: 20px;
+    display:flex;
+    justify-content:center;
+}
+
 .tkeMedia {
     width: 440px;
     flex-shrink: 0;

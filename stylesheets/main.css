@@ -154,6 +154,7 @@ ul li a:hover {
     display: flex;
     gap: 100px;
     align-items: flex-start;
+    flex-direction: column;
 }
 
 .tkeText {

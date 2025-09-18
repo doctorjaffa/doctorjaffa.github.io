@@ -152,7 +152,7 @@ ul li a:hover {
 
 .tkeLayout {
     display: flex;
-    gap: 35px;
+    gap: 100px;
     align-items: flex-start;
 }
 

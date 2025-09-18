@@ -74,6 +74,12 @@ ul li a:hover {
   cursor: pointer;
   outline: 2px solid green;
   box-sizing: border-box;
+  transition: background-color: 0.3s, transform 0.2s;
+}
+
+#aboutButton:hover {
+  background-color: #888;
+  transform: scale(1.02);
 }
 
 #projectWindow {
@@ -96,7 +102,12 @@ ul li a:hover {
   height: auto;
   margin: 10px 0; 
   cursor: pointer;
+  transition: transform 0.3s, box-shadow 0.3s;
 }
+
+#projectWindow img:hover {
+  transform: scale(1.04);
+  box-shadow: 0 4px 10px alpha(0.5);
 
 #about, #thekleinevent, #adventuregame {
   padding: 20px;

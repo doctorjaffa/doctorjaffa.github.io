@@ -59,10 +59,27 @@ ul li a:hover {
   outline: 2px solid red;
 }
 
+#aboutButton {
+  position: fixed;
+  top: 100px;
+  right: 0;
+  width: 350px;
+  height: 60px;
+  background-colour: #999;
+  color: white;
+  text-align: center;
+  line-height: 60px;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  outline: 2px solid green;
+  box-sizing: border-box;
+}
+
 #projectWindow {
   position: fixed;
   width: 350px;
-  top: 100px;
+  top: 160px;
   right: 0;
   background-color: #444;
   color: white;

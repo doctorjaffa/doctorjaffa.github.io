@@ -48,7 +48,7 @@
                         </div>
 
                         <div class="tkeMedia">
-                            <iframe src="https://www.youtube.com/embed/wjItvIRsh_c" title="The Klein Event Trailer" frameborder="0" allowfullscreen> </iframe>
+                            <iframe src="https://www.youtube.com/embed/wjItvIRsh_c" title="The Klein Event Trailer" frameborder="0" allowfullscreen height="250px"> </iframe>
                             <img src="/images/media/tke/tkemedia1.gif" alt="Monster Running">
                             <img src="/images/media/tke/tkemedia2.png" alt="Broken Escape Pod">
                             <img src="/images/media/tke/tkemedia3.png" alt="Kitchen Environment">

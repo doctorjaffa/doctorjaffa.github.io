@@ -107,7 +107,8 @@ ul li a:hover {
 
 #projectWindow img:hover {
   transform: scale(1.04);
-  box-shadow: 0 4px 10px alpha(0.5);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
 
 #about, #thekleinevent, #adventuregame {
   padding: 20px;

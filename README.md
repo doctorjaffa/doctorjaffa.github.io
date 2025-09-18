@@ -44,7 +44,7 @@
                             <p> During this project, I also learned how to use industry standard software such as Perforce and Jira within the team environment, essentially simulating what a small studio could be like, consistently updating the team on milestones, where some ends needed refined or trimmed, and ensuring we would meet the deadlines 
                             coming up. </p>
                             <br>
-                            <p> Through various play sessions, we iterated different features, adding polish based on feedback, and with industry mentors providing insights, we were able to successfully develop and publish The Klein Event to itch.io, which you can view by clicking the image below! </p>
+                            <p> Through various play sessions, we iterated different features, adding polish based on feedback, and with industry mentors providing insights, we were able to successfully develop and publish The Klein Event to itch.io, which you can view by clicking the embed below! </p>
                         </div>
 
                         <div class="tkeMedia">
@@ -54,9 +54,7 @@
                         </div>
 
                         <div class="tkeItchLink">
-                            <a href="https://epochproductions.itch.io/the-klein-event">
-                            <img src="" alt="">
-                            </a>
+                            <iframe frameborder="0" src="https://itch.io/embed/3343460" width="552" height="167"><a href="https://epochproductions.itch.io/the-klein-event">The Klein Event by EpochProductions</a></iframe>
                         </div>
                     </div>
                 </div>

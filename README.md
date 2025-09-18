@@ -49,7 +49,7 @@
 
                         <div class="tkeMedia">
                             <iframe width="320" height="180" src="https://www.youtube.com/embed/wjItvIRsh_c" title="The Klein Event Trailer" frameborder="0" allowfullscreen> </iframe>
-                            <img src="" alt="">
+                            <img src="/images/media/tke/monster-vignette.gif" alt="TKE Gif 1">
                             <img src="" alt="">
                         </div>
                     </div>

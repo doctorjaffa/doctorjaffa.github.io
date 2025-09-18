@@ -64,7 +64,7 @@ ul li a:hover {
   top: 100px;
   right: 0;
   width: 350px;
-  height: 60px;
+  height: 100px;
   background-colour: #999;
   color: white;
   text-align: center;
@@ -85,7 +85,7 @@ ul li a:hover {
 #projectWindow {
   position: fixed;
   width: 350px;
-  top: 160px;
+  top: 200px;
   right: 0;
   background-color: #444;
   color: white;

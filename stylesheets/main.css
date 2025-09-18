@@ -63,11 +63,16 @@ ul li a:hover {
   background-color: #1e1e2e;
   color: #e0e0e0;
   padding: 20px;
-  overflow-y: auto;
+  overflow-y: scroll;
   box-sizing: border-box;
   border-right: 2px solid #16161d;
   margin-right: 20px;
   border-radius: 12px;
+  scrollbar-width: none;
+}
+
+#infoWindow::-webkit-scrollbar {
+    display: none;
 }
 
 #aboutButton {

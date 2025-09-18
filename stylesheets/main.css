@@ -1,6 +1,7 @@
 body {
   background-color: #0e0e12;
   margin: 0;
+  line-height: 1.6;
   color: #e0e0e0;
 }
 
@@ -64,6 +65,8 @@ ul li a:hover {
   overflow-y: auto;
   box-sizing: border-box;
   border-right: 2px solid #16161d;
+  margin-right: 20px;
+  border-radius: 12px;
 }
 
 #aboutButton {
@@ -101,6 +104,8 @@ ul li a:hover {
   overflow-y: auto;
   box-sizing: border-box;
   border-left: 2px solid #1f1f28;
+  margin-right: 20px;
+  border-radius: 12px;
 }
 
 #projectWindow h1 {
@@ -136,4 +141,10 @@ ul li a:hover {
 #thekleinevent h1,
 #adventuregame h1 {
   color: #ffffff;
+}
+
+#infoWindow, #projectWindow, #aboutButton {
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  border: none;
 }

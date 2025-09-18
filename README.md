@@ -71,5 +71,15 @@
                   <!-- <u><p id="projectLink"><a href="https://doctorjaffa.github.io/thekleinevent.html"> The Klein Event </a></p></u> -->
             </div>
         </section>
+        <footer>
+            <a href="https://github.com/doctorjaffa" target="_blank">
+                <img src="github-mark-white.png" alt="Github">
+            </a>
+            <a href="https://bsky.app/profile/doctorjaffa.bsky.social" target="_blank">
+                <img src="Bluesky_Logo.png" alt="Bluesky">
+            </a>
+            <a href="" target="_blank">
+                <img src="Li-In-Bug.png" alt="LinkedIn">
+            </a>
     </body>
 </html>

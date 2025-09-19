@@ -21,17 +21,19 @@
             <div id="infoWindow">
                 <!-- About Me Section -->
                 <div id="about">
-                    <div class="infoText">
-                        <h1> About Me </h1>
-                            <p> Hello, I'm an aspiring games programmer, currently in 4th year studying Computer Game Applications Development at Abertay University! </p>
-                            <br>
-                            <p> Throughout my course, I have been exposed to many different forms of programming and have been very eager to understand and learn each variant of it. This involves things like AI, physics, graphics or more 
-                            generalised object-oriented programming, as you will see across my projects here. </p>
-                            <p> I have experience in both C++ and C#, using engines such as Unity and Unreal, or working within SFML and Monogame to design and develop projects. I am also learning Godot to work on an idle game in my free time! </p>
-                    </div>
+                    <div class"infoLayout">
+                        <div class="infoText">
+                            <h1> About Me </h1>
+                                <p> Hello, I'm an aspiring games programmer, currently in 4th year studying Computer Game Applications Development at Abertay University! </p>
+                                <br>
+                                <p> Throughout my course, I have been exposed to many different forms of programming and have been very eager to understand and learn each variant of it. This involves things like AI, physics, graphics or more 
+                                generalised object-oriented programming, as you will see across my projects here. </p>
+                                <p> I have experience in both C++ and C#, using engines such as Unity and Unreal, or working within SFML and Monogame to design and develop projects. I am also learning Godot to work on an idle game in my free time! </p>
+                        </div>
 
-                    <div class="infoMedia">
-                        <img src="" alt="">
+                        <div class="infoMedia">
+                            <img src="" alt="">
+                        </div>
                     </div>
                 </div>
 

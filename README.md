@@ -72,6 +72,34 @@
                     </div>
                 </div>
 
+                <!-- Graphics Programming Section -->
+                <div id="graphics">
+                    <div class="infoLayout">
+                        <div class="infoText">
+                            <h1> Graphics Programming </h1>
+                            <br>
+                            <p> This was a university project in my third year, exploring the use of OpenGL and HLSL to create a rendered scene environment with various graphics and processing techniques.</p>
+                            <br>
+                            <p> I wrote multiple custom vertex and pixel shaders to create things like dynamic lighting and vertex manipulation, which taught me the importance of the graphics pipeline to make a visual environment much more 
+                            appealing. I also used Gerstner waves to simulate realistic water, with two editable waves simulated to show how multiple directions and values can be handled. I also implemented a shadowmap, which renders depth information
+                            and samples it within the shaders, bringing further realism into the scene. 
+                            </p>
+                            <br>
+                            <p> I also added various post-processing techniques, such as Gaussian blur, edge detections, and box blurs, as well as some examples of these being stacked together, with one being box blurring and sharpening applied simultaneously. 
+                            These could all be changed in real-time using the Dear ImGui editor, as seen in shown media, allowing to show the different impacts these techniques and processes can have in creating an immersive, realistic environment through 
+                            the graphics pipeline. </p>
+                            <br>
+                            <p> This project made me realise how useful the graphics pipeline is implemented, and how applying multiple techniques, some extremely simple, can elevate an otherwise plain scene into something extremely immersive to someone viewing it.</p>
+                        </div>
+
+                        <div class="infoMedia">
+                            <img src="/images/media/gp/gpmedia1.gif" alt="Changing Waves">
+                            <img src="/images/media/gp/gpmedia2.gif" alt="Post Processing">
+                            <img src="/images/media/gp/gpmedia3.gif" alt="Tessellation">
+                        </div>
+                    </div>
+                </div>
+
                 <!-- Adventure Game Section -->
                 <div id="adventuregame">
                     <div class="infoLayout">
@@ -105,16 +133,25 @@
                         document.getElementById("about").style.display = "block";
                         document.getElementById("thekleinevent").style.display = "none";
                         document.getElementById("adventuregame").style.display = "none";
+                        document.getElementById("graphics").style.display = "none";
                         }
                     function displayTKE() {
                         document.getElementById("about").style.display = "none";
                         document.getElementById("thekleinevent").style.display = "block";
                         document.getElementById("adventuregame").style.display = "none";
+                        document.getElementById("graphics").style.display = "none";
+                        }
+                    function displayGP() {
+                        document.getElementById("about").style.display = "none";
+                        document.getElementById("thekleinevent").style.display = "none";
+                        document.getElementById("adventuregame").style.display = "none";
+                        document.getElementById("graphics").style.display = "block";
                         }
                     function displayAG() {
                         document.getElementById("about").style.display = "none";
                         document.getElementById("thekleinevent").style.display = "none";
                         document.getElementById("adventuregame").style.display = "block";
+                        document.getElementById("graphics").style.display = "none";
                         }
                 </script>
 
@@ -126,8 +163,9 @@
                   <h1>Projects</h1>
                   <br>
                   <!-- <a href="https://doctorjaffa.github.io/thekleinevent.html"> -->
-                  <img onclick="displayTKE()" src="/images/thumbnails/TKEthumbnail.png" title="The Klein Event Project">
-                  <img onclick="displayAG()" src="/images/thumbnails/AGImage.png" title="Adventure Game Project">
+                  <img onclick="displayTKE()" src="/images/thumbnails/TKEthumbnail.png" title="The Klein Event">
+                  <img onclick="displayTKE()" src="/images/thumbnails/AGthumbnail.png" title="Graphics Programming">
+                  <img onclick="displayAG()" src="/images/thumbnails/AGImage.png" title="Adventure Game">
                   <!-- </a> -->
                   <br>
                   <!-- <u><p id="projectLink"><a href="https://doctorjaffa.github.io/thekleinevent.html"> The Klein Event </a></p></u> -->

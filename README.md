@@ -24,6 +24,7 @@
                     <div class="infoLayout">
                         <div class="infoText">
                             <h1> About Me </h1>
+                                <br>
                                 <p> Hello, I'm an aspiring games programmer, currently in 4th year studying Computer Game Applications Development at Abertay University! </p>
                                 <br>
                                 <p> Throughout my course, I have been exposed to many different forms of programming and have been very eager to understand and learn each variant of it. This involves things like AI, physics, graphics or more 

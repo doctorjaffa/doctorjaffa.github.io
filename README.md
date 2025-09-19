@@ -48,10 +48,12 @@
                             <p> This experience was extremely crucial for showing how my individual skills would translate into a group project - learning how to take ideas from other disciplines and maintaining their vision while producing playable mechanics/features. This made it a perfect chance to develop
                             teamworking and communication skills across the different pipelines of creating a game, connecting all the features I had made with the other programmer and ensuring everything worked as intended. </p>
                             <br>
-                            <p> During this project, I also learned how to use industry standard software such as Perforce and Jira within the team environment, essentially simulating what a small studio could be like, consistently updating the team on milestones, where some ends needed refined or trimmed, and ensuring we would meet the deadlines 
-                            coming up. </p>
+                            <p> During this project, we used an industry-standard pipeline, with Perforce for version control and Jira for task management. This helped us keep on track of milestones, prioritising tasks and trimming others to ensure we would meet those deadlines, and building iterations of the project across numerous 
+                            sprints, essentially simulating the workflow of a small games studio. I became very comfortable using these software to manage my own tasks and ensure I was keeping up with the pace set by others, as well as understanding where other disciplines were 
+                            at and making sure we were all working in tandem to produce the released game. </p>
                             <br> <br>
-                            <p> Through various play sessions, we iterated different features, adding polish based on feedback, and with industry mentors providing insights, we were able to successfully develop and publish The Klein Event to itch.io, which you can view by clicking the embed below! </p>
+                            <p> Through various playtest sessions, I refined systems and features based on feedback, such as constantly fine-tuning the monster AI balance so people felt its presence without it being unfair. With industry mentors providing additional insights, we were able to 
+                            successfully develop and publish The Klein Event to itch.io, my first full group experience of making a game start to finish, which you can view by clicking below! </p>
 
                             <div class="tkeItchLink">
                                 <iframe frameborder="0" src="https://itch.io/embed/3343460" width="552" height="167">

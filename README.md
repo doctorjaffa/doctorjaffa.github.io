@@ -79,7 +79,7 @@
                             <p> This project is an older text-based adventure game, created solely using C++ and its i/o stream, to deliver a short interactive experience to the player. By limiting it to just text, this allowed me to focus purely on the foundations of programming concepts without needing 
                             fancy graphics or built-in systems. </p>
 
-                            <p> This game features branching areas, an inventory system, and simplistic turn-based combat, all designed with object-oriented programming principles to help me understand and execute them in future, bigger scope projects.
+                            <p> This game features branching areas, an inventory system, and simple combat, all designed with object-oriented programming principles to help me understand and execute them in future, bigger scope projects.
                             Everything in the project derives from a simple 'Thing' base class, allowing me to rapidly expand the game's scope by adding new child classes without having to update existing systems to ensure it all works together. This approach
                             to my project showed me the very strong benefits of modular design and programming.</p>
 
@@ -89,7 +89,9 @@
                         </div>
 
                         <div class="infoMedia">
-                            <img src="" alt="">
+                            <img src="/images/media/ag/agmedia1.gif" alt"Looking at Area">
+                            <img src="/images/media/ag/agmedia2.png" alt="Combat Example">
+                            <img src="/images/media/ag/agmedia3.png" alt="Analysing Enemy">
                         </div>
                     </div>
                 </div>

@@ -164,7 +164,7 @@
                   <br>
                   <!-- <a href="https://doctorjaffa.github.io/thekleinevent.html"> -->
                   <img onclick="displayTKE()" src="/images/thumbnails/TKEthumbnail.png" title="The Klein Event">
-                  <img onclick="displayTKE()" src="/images/thumbnails/AGthumbnail.png" title="Graphics Programming">
+                  <img onclick="displayGP()" src="/images/thumbnails/GPthumbnail.png" title="Graphics Programming">
                   <img onclick="displayAG()" src="/images/thumbnails/AGImage.png" title="Adventure Game">
                   <!-- </a> -->
                   <br>

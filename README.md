@@ -89,7 +89,7 @@
                         </div>
 
                         <div class="infoMedia">
-                            <img src="/images/media/ag/agmedia1.gif" alt"Looking at Area">
+                            <img src="/images/media/ag/agmedia1.png" alt"Looking at Area">
                             <img src="/images/media/ag/agmedia2.png" alt="Combat Example">
                             <img src="/images/media/ag/agmedia3.png" alt="Analysing Enemy">
                         </div>

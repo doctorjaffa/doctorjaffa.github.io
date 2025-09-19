@@ -134,7 +134,7 @@ ul li a:hover {
   box-shadow: 0 4px 10px rgba(77, 208, 225, 0.4);
 }
 
-#about, #thekleinevent, #adventuregame {
+#about, #thekleinevent, #adventuregame, #graphics {
   padding: 20px;
   display: none;
 }

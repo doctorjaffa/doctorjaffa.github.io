@@ -76,13 +76,16 @@
                     <div class="infoLayout">
                         <div class="infoText">
                             <h1> Adventure Game </h1>
+                            <br>
                             <p> This project is an older text-based adventure game, created solely using C++ and its i/o stream, to deliver a short interactive experience to the player. By limiting it to just text, this allowed me to focus purely on the foundations of programming concepts without needing 
                             fancy graphics or built-in systems. </p>
 
+                            <br>
                             <p> This game features branching areas, an inventory system, and simple combat, all designed with object-oriented programming principles to help me understand and execute them in future, bigger scope projects.
                             Everything in the project derives from a simple 'Thing' base class, allowing me to rapidly expand the game's scope by adding new child classes without having to update existing systems to ensure it all works together. This approach
                             to my project showed me the very strong benefits of modular design and programming.</p>
 
+                            <br>
                             <p> The biggest goal for this project was foresight - designing it in a way that allows new content to be added into the game extremely fast, allowing my systems to scale up in scope much more rapidly than other programming styles.
                             While this is a much simpler project and smaller in scope, it gave me the core foundations in building modular code, without relying on anything but my own programming design and implementations, that I will take forward into any future 
                             project I work on, both personally or professionally. </p>

@@ -143,12 +143,6 @@ ul li a:hover {
   display: block;
 }
 
-#about h1, 
-#thekleinevent h1,
-#adventuregame h1 {
-  color: #ffffff;
-}
-
 #infoWindow, #projectWindow, #aboutButton {
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
@@ -170,6 +164,7 @@ ul li a:hover {
     text-align: center;
     margin-bottom: 20px; 
     margin-top: 15px;
+    color: #ffffff;
 }
 
 .infoMedia {

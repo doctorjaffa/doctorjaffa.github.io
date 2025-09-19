@@ -21,7 +21,7 @@
             <div id="infoWindow">
                 <!-- About Me Section -->
                 <div id="about">
-                    <div class"infoLayout">
+                    <div class="infoLayout">
                         <div class="infoText">
                             <h1> About Me </h1>
                                 <p> Hello, I'm an aspiring games programmer, currently in 4th year studying Computer Game Applications Development at Abertay University! </p>

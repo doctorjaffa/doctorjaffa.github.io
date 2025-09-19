@@ -21,18 +21,24 @@
             <div id="infoWindow">
                 <!-- About Me Section -->
                 <div id="about">
-                    <h1 style="font-size:25px; text-align:center;"> About Me </h1>
-                        <p> Hello, I'm an aspiring games programmer, currently in 4th year studying Computer Game Applications Development at Abertay University! </p>
-                        <br>
-                        <p> Throughout my course, I have been exposed to many different forms of programming and have been very eager to understand and learn each variant of it. This involves things like AI, physics, graphics or more 
-                        generalised object-oriented programming, as you will see across my projects here. </p>
-                        <p> I have experience in both C++ and C#, using engines such as Unity and Unreal, or working within SFML and Monogame to design and develop projects. I am also learning Godot to work on an idle game in my free time! </p>
+                    <div class="infoText">
+                        <h1> About Me </h1>
+                            <p> Hello, I'm an aspiring games programmer, currently in 4th year studying Computer Game Applications Development at Abertay University! </p>
+                            <br>
+                            <p> Throughout my course, I have been exposed to many different forms of programming and have been very eager to understand and learn each variant of it. This involves things like AI, physics, graphics or more 
+                            generalised object-oriented programming, as you will see across my projects here. </p>
+                            <p> I have experience in both C++ and C#, using engines such as Unity and Unreal, or working within SFML and Monogame to design and develop projects. I am also learning Godot to work on an idle game in my free time! </p>
+                    </div>
+
+                    <div class="infoMedia">
+                        <img src="" alt="">
+                    </div>
                 </div>
 
                 <!-- The Klein Event Section -->
                 <div id="thekleinevent"> 
-                    <div class="projectLayout">
-                        <div class="projectText">
+                    <div class="infoLayout">
+                        <div class="infoText">
                             <h1> The Klein Event </h1>
                             <br>
                             <p> I worked as part of a team called Epoch Productions as one of two programmers to develop 'The Klein Event' - a puzzle horror game set within a time loop upon a spaceship. This was a university project, with the team consisting of 7 students from Abertay, where we had to design and develop our game from scratch over the course of ~4 months. </p>
@@ -52,7 +58,7 @@
                             </div>
                         </div>
 
-                        <div class="projectMedia">
+                        <div class="infoMedia">
                             <iframe src="https://www.youtube.com/embed/wjItvIRsh_c" title="The Klein Event Trailer" frameborder="0" allowfullscreen height="250px"> </iframe>
                             <img src="/images/media/tke/tkemedia1.gif" alt="Monster Running">
                             <img src="/images/media/tke/tkemedia2.png" alt="Broken Escape Pod">
@@ -63,13 +69,13 @@
 
                 <!-- Adventure Game Section -->
                 <div id="adventuregame">
-                    <div class="projectLayout">
-                        <div class="projectText">
-                            <h1 style="font-size:25px; text-align:center;"> Adventure Game </h1>
+                    <div class="infoLayout">
+                        <div class="infoText">
+                            <h1> Adventure Game </h1>
                             <p> This is a mini text-based adventure game which focuses on object-oriented programming to quickly and efficiently implement new features. </p>
                         </div>
 
-                        <div class="projectMedia">
+                        <div class="infoMedia">
                             <img src="" alt="">
                         </div>
                     </div>

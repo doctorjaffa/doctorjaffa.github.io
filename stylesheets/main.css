@@ -155,24 +155,24 @@ ul li a:hover {
   border: none;
 }
 
-.tkeLayout {
+.projectLayout {
     display: flex;
     gap: 100px;
     align-items: flex-start;
 }
 
-.tkeText {
+.projectText {
     flex: 1;
 }
 
-.tkeText h1 {
+.projectText h1 {
     font-size: 48px;
     text-align: center;
     margin-bottom: 20px; 
     margin-top: 15px;
 }
 
-.tkeMedia {
+.projectMedia {
     width: 440px;
     flex-shrink: 0;
     display: flex;
@@ -180,7 +180,14 @@ ul li a:hover {
     gap: 10px;
 }
 
+/*
 .tkeMedia iframe, .tkeMedia img {
+    width: 100%;
+    border-radius: 8px;
+}
+*/
+
+.projectMedia img {
     width: 100%;
     border-radius: 8px;
 }

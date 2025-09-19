@@ -31,8 +31,8 @@
 
                 <!-- The Klein Event Section -->
                 <div id="thekleinevent"> 
-                    <div class="tkeLayout">
-                        <div class="tkeText">
+                    <div class="projectLayout">
+                        <div class="projectText">
                             <h1> The Klein Event </h1>
                             <br>
                             <p> I worked as part of a team called Epoch Productions as one of two programmers to develop 'The Klein Event' - a puzzle horror game set within a time loop upon a spaceship. This was a university project, with the team consisting of 7 students from Abertay, where we had to design and develop our game from scratch over the course of ~4 months. </p>
@@ -52,7 +52,7 @@
                             </div>
                         </div>
 
-                        <div class="tkeMedia">
+                        <div class="projectMedia">
                             <iframe src="https://www.youtube.com/embed/wjItvIRsh_c" title="The Klein Event Trailer" frameborder="0" allowfullscreen height="250px"> </iframe>
                             <img src="/images/media/tke/tkemedia1.gif" alt="Monster Running">
                             <img src="/images/media/tke/tkemedia2.png" alt="Broken Escape Pod">
@@ -63,8 +63,16 @@
 
                 <!-- Adventure Game Section -->
                 <div id="adventuregame">
-                    <h1 style="font-size:25px; text-align:center;"> Adventure Game </h1>
-                    <p> This is a mini text-based adventure game which focuses on object-oriented programming to quickly and efficiently implement new features. </p>
+                    <div class="projectLayout">
+                        <div class="projectText">
+                            <h1 style="font-size:25px; text-align:center;"> Adventure Game </h1>
+                            <p> This is a mini text-based adventure game which focuses on object-oriented programming to quickly and efficiently implement new features. </p>
+                        </div>
+
+                        <div class="projectMedia">
+                            <img src="" alt="">
+                        </div>
+                    </div>
                 </div>
 
                 <script>

@@ -1,0 +1,219 @@
+body {
+  background-color: #0e0e12;
+  margin: 0;
+  line-height: 1.6;
+  color: #e0e0e0;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #121212;
+  padding-left: 30px;
+  padding-top: 15px;
+  height: 100px;
+  text-align: left;
+  font-size: 35px;
+  color: #ffffff;
+  z-index: 1000;
+  border-bottom: 2px solid #1f1f1f;
+}
+
+ul {
+  float: left;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #111111;
+}
+
+#content {
+  display: block;
+  height: 100%;
+  width: 100%;
+  margin-top: 100px;
+  box-sizing: border-box;
+}
+
+#infoWindow {
+  position: fixed;
+  left: 0;
+  top: 100px; 
+  right: 350px;
+  bottom: 70px;
+  background-color: #1e1e2e;
+  color: #e0e0e0;
+  padding: 20px;
+  overflow-y: scroll;
+  box-sizing: border-box;
+  border-right: 2px solid #16161d;
+  margin-right: 20px;
+  border-radius: 12px;
+  scrollbar-width: none;
+}
+
+#infoWindow::-webkit-scrollbar {
+    display: none;
+}
+
+#aboutButton {
+  position: fixed;
+  top: 100px;
+  right: 0;
+  width: 350px;
+  height: 100px;
+  background-color: #202030;
+  color: #ffffff;
+  text-align: center;
+  line-height: 100px;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  box-sizing: border-box;
+  transition: background-color: 0.3s, transform 0.2s;
+}
+
+#aboutButton:hover {
+  background-color: #2a2a3a;
+  transform: scale(1.02);
+}
+
+#projectWindow {
+  position: fixed;
+  width: 350px;
+  top: 200px;
+  right: 0;
+  bottom: 70px;
+  background-color: #16161d;
+  color: #e0e0e0;
+  text-align: center;
+  padding: 25px 10px 10px 10px;
+  height: calc(100vh - 100px);
+  overflow-y: auto;
+  box-sizing: border-box;
+  border-left: 2px solid #1f1f28;
+  border-radius: 12px;
+}
+
+#projectWindow h1 {
+  color: #ffffff;
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+#projectWindow img {
+  width: 100%;
+  height: auto;
+  margin: 10px 0; 
+  cursor: pointer;
+  border-radius: 8px;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+#projectWindow img:hover {
+  transform: scale(1.04);
+  box-shadow: 0 4px 10px rgba(77, 208, 225, 0.4);
+}
+
+#about, #thekleinevent, #adventuregame, #graphics {
+  padding: 20px;
+  display: none;
+}
+
+#about {
+  display: block;
+}
+
+#infoWindow, #projectWindow, #aboutButton {
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  border: none;
+}
+
+.infoLayout {
+    display: flex;
+    gap: 100px;
+    align-items: flex-start;
+}
+
+.infoText {
+    flex: 1;
+}
+
+.infoText h1 {
+    font-size: 48px;
+    text-align: center;
+    margin-bottom: 20px; 
+    margin-top: 15px;
+    color: #ffffff;
+}
+
+.infoMedia {
+    width: 440px;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+/*
+.tkeMedia iframe, .tkeMedia img {
+    width: 100%;
+    border-radius: 8px;
+}
+*/
+
+.infoMedia img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.tkeItchLink {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.tkeItchLink iframe {
+    max-width: 100%;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 70px;
+  background-color: #111;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  z-index: 1000;
+  box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.4);
+}
+
+footer img {
+  height: 32px;
+  width: 32px;
+  cursor: pointer;
+}

@@ -33,7 +33,8 @@
                         </div>
 
                         <div class="infoMedia">
-                            <img src="" alt="">
+                            <img src="/images/media/about/luna_and_hope.jpg" alt="Two Cats">
+                            <img src="/images/media/about/gypsy.jpg" alt="One Cat">
                         </div>
                     </div>
                 </div>
